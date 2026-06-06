@@ -16,7 +16,16 @@ The objective of this project is to identify factors associated with startup fun
   - Profitable
   - Region
   - Exit Status
+## 🤖 Machine Learning Model & Results
+We built a Classification model using *Random Forest Classifier* to predict the startup acquisition status.
 
+* *Model Used:* RandomForestClassifier
+* *Accuracy Score:* 71.00% ✅
+
+## 🛠️ Setup & Installation
+To run this project locally, install the dependencies using:
+bash
+pip install -r requirements.txt
 ## Statistical Methods
 - Mean
 - Median
